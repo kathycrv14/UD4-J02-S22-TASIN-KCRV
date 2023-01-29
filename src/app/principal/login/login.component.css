@@ -1,0 +1,25 @@
+.formulario{
+    color: rgb(255, 255, 255);
+}
+
+body{
+    background-image: url("../../../assets/16578.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+    height: 950px;
+}
+
+#titulo1{
+    color: yellow;
+    border-top: 10px solid rgb(219, 197, 68);
+  border-right: 10px solid rgb(219, 197, 68);
+  border-bottom: 10px solid rgb(219, 197, 68);
+  border-left: 10px solid rgb(219, 197, 68);
+}
+
+#formu{
+    border-top: 10px solid rgb(0, 0, 0);
+  border-right: 10px solid rgb(0, 0, 0);
+  border-bottom: 10px solid rgb(0, 0, 0);
+  border-left: 10px solid rgb(3, 3, 3);
+}
